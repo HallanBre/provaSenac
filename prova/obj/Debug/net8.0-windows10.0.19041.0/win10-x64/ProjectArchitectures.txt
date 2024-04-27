@@ -1,0 +1,3 @@
+C:\Users\halla\source\repos\prova\Dominio\Dominio.csproj;neutral
+C:\Users\halla\source\repos\prova\Integracao\Integracao.csproj;neutral
+C:\Users\halla\source\repos\prova\prova\prova.csproj;x64
